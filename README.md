@@ -18,6 +18,8 @@ its underlying persistence mechanism, and in particular
 is LevelDB. Actually the LevelDB in use is a pure Java
 implementation: https://github.com/dain/leveldb
 
+this is not a turtle
+
 Currently iddd_agilepm doesn't employ a container of
 any kind (such as Spring).
 
